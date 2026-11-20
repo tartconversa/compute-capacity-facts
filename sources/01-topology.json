@@ -1,0 +1,100 @@
+{
+  "intake": 1,
+  "table": "topology",
+  "records": [
+    {
+      "id": "e1",
+      "center": "edge-east",
+      "fabric": "ring-x",
+      "card": "E01",
+      "span": [
+        0,
+        60
+      ],
+      "members": [
+        "E01p:fit3",
+        "E01q:fit3"
+      ]
+    },
+    {
+      "id": "e2",
+      "center": "edge-east",
+      "fabric": "ring-x",
+      "card": "E01",
+      "span": [
+        60,
+        240
+      ],
+      "members": []
+    },
+    {
+      "id": "e3",
+      "center": "edge-east",
+      "fabric": "ring-x",
+      "card": "E02",
+      "span": [
+        0,
+        240
+      ],
+      "members": []
+    },
+    {
+      "id": "e4",
+      "center": "edge-east",
+      "fabric": "ring-y",
+      "card": "E03",
+      "span": [
+        0,
+        240
+      ],
+      "members": []
+    },
+    {
+      "id": "w1",
+      "center": "edge-west",
+      "fabric": "ring-w",
+      "card": "W01",
+      "span": [
+        0,
+        240
+      ],
+      "members": []
+    },
+    {
+      "id": "w2",
+      "center": "edge-west",
+      "fabric": "ring-w",
+      "card": "W02",
+      "span": [
+        0,
+        240
+      ],
+      "members": []
+    },
+    {
+      "id": "w3",
+      "center": "edge-west",
+      "fabric": "ring-v",
+      "card": "W03",
+      "span": [
+        0,
+        240
+      ],
+      "members": []
+    },
+    {
+      "id": "w4",
+      "center": "edge-west",
+      "fabric": "ring-w",
+      "card": "W04",
+      "span": [
+        0,
+        240
+      ],
+      "members": [
+        "W04a:fit3",
+        "W04b:fit3"
+      ]
+    }
+  ]
+}

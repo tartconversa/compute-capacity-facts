@@ -1,0 +1,14 @@
+{
+  "intake": 2,
+  "table": "coverage",
+  "records": [
+    {
+      "id": "cov-w2b",
+      "resource": "W02",
+      "span": [
+        90,
+        240
+      ]
+    }
+  ]
+}

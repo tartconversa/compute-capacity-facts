@@ -1,0 +1,20 @@
+{
+  "intake": 2,
+  "table": "placements",
+  "records": [
+    {
+      "id": "pl-handoff",
+      "reservation": "r-move",
+      "center": "edge-west",
+      "resources": [
+        "W01",
+        "W02"
+      ],
+      "span": [
+        96,
+        150
+      ],
+      "confirmation": "accepted-handoff"
+    }
+  ]
+}

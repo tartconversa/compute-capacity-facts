@@ -1,0 +1,55 @@
+{
+  "topology": {
+    "id": "text",
+    "center": "text",
+    "fabric": "text",
+    "card": "text",
+    "span": "range",
+    "members": "items"
+  },
+  "usage": {
+    "id": "text",
+    "resource": "text",
+    "span": "range",
+    "party": "text",
+    "job": "text",
+    "replaces": "text"
+  },
+  "coverage": {
+    "id": "text",
+    "resource": "text",
+    "span": "range"
+  },
+  "holds": {
+    "id": "text",
+    "resource": "text",
+    "span": "range",
+    "kind": "text"
+  },
+  "reservations": {
+    "id": "text",
+    "party": "text",
+    "location": "text",
+    "span": "range",
+    "resource_type": "text",
+    "count": "int",
+    "purpose": "text",
+    "state": "text"
+  },
+  "handoffs": {
+    "id": "text",
+    "reservation": "text",
+    "from": "text",
+    "to": "text",
+    "confirmed_min": "int",
+    "allowed_to": "items"
+  },
+  "placements": {
+    "id": "text",
+    "reservation": "text",
+    "center": "text",
+    "resources": "items",
+    "span": "range",
+    "confirmation": "text"
+  }
+}

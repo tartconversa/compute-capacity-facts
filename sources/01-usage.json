@@ -1,0 +1,72 @@
+{
+  "intake": 1,
+  "table": "usage",
+  "records": [
+    {
+      "id": "a1",
+      "resource": "E01p",
+      "span": [
+        10,
+        39
+      ],
+      "party": "alpha",
+      "job": "j1",
+      "replaces": null
+    },
+    {
+      "id": "a2",
+      "resource": "E01q",
+      "span": [
+        20,
+        50
+      ],
+      "party": "beta",
+      "job": "j2",
+      "replaces": null
+    },
+    {
+      "id": "a3",
+      "resource": "E01",
+      "span": [
+        60,
+        111
+      ],
+      "party": "alpha",
+      "job": "move",
+      "replaces": null
+    },
+    {
+      "id": "a4",
+      "resource": "W01",
+      "span": [
+        96,
+        140
+      ],
+      "party": "alpha",
+      "job": "move-w",
+      "replaces": null
+    },
+    {
+      "id": "b1",
+      "resource": "W02",
+      "span": [
+        30,
+        88
+      ],
+      "party": "gamma",
+      "job": "other",
+      "replaces": null
+    },
+    {
+      "id": "b2",
+      "resource": "E03",
+      "span": [
+        70,
+        110
+      ],
+      "party": "eta",
+      "job": "e3",
+      "replaces": null
+    }
+  ]
+}

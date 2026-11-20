@@ -1,0 +1,28 @@
+{
+  "intake": 3,
+  "table": "usage",
+  "records": [
+    {
+      "id": "landed",
+      "resource": "W02",
+      "span": [
+        122,
+        151
+      ],
+      "party": "alpha",
+      "job": "move-peer",
+      "replaces": null
+    },
+    {
+      "id": "moved-end",
+      "resource": "E01",
+      "span": [
+        60,
+        124
+      ],
+      "party": "alpha",
+      "job": "move",
+      "replaces": "a3"
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "intake": 1,
+  "table": "reservations",
+  "records": [
+    {
+      "id": "r-move",
+      "party": "alpha",
+      "location": "edge-east",
+      "span": [
+        60,
+        150
+      ],
+      "resource_type": "fit7",
+      "count": 2,
+      "purpose": "qualification",
+      "state": "confirmed"
+    }
+  ]
+}

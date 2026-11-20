@@ -1,0 +1,62 @@
+{
+  "intake": 1,
+  "table": "coverage",
+  "records": [
+    {
+      "id": "cov-e1",
+      "resource": "E01",
+      "span": [
+        0,
+        240
+      ]
+    },
+    {
+      "id": "cov-e2",
+      "resource": "E02",
+      "span": [
+        0,
+        240
+      ]
+    },
+    {
+      "id": "cov-e3",
+      "resource": "E03",
+      "span": [
+        0,
+        240
+      ]
+    },
+    {
+      "id": "cov-w1",
+      "resource": "W01",
+      "span": [
+        0,
+        240
+      ]
+    },
+    {
+      "id": "cov-w2",
+      "resource": "W02",
+      "span": [
+        0,
+        96
+      ]
+    },
+    {
+      "id": "cov-w3",
+      "resource": "W03",
+      "span": [
+        0,
+        240
+      ]
+    },
+    {
+      "id": "cov-w4",
+      "resource": "W04",
+      "span": [
+        0,
+        240
+      ]
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "intake": 2,
+  "table": "handoffs",
+  "records": [
+    {
+      "id": "h-m",
+      "reservation": "r-move",
+      "from": "edge-east",
+      "to": "edge-west",
+      "confirmed_min": 96,
+      "allowed_to": [
+        "edge-west"
+      ]
+    }
+  ]
+}

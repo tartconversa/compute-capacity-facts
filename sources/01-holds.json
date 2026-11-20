@@ -1,0 +1,15 @@
+{
+  "intake": 1,
+  "table": "holds",
+  "records": [
+    {
+      "id": "ban-e",
+      "resource": "E02",
+      "span": [
+        85,
+        120
+      ],
+      "kind": "excluded"
+    }
+  ]
+}

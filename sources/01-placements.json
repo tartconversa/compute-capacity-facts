@@ -1,0 +1,20 @@
+{
+  "intake": 1,
+  "table": "placements",
+  "records": [
+    {
+      "id": "pl-earlier",
+      "reservation": "r-move",
+      "center": "edge-east",
+      "resources": [
+        "E01",
+        "E02"
+      ],
+      "span": [
+        60,
+        150
+      ],
+      "confirmation": "confirmed-before-hold"
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "intake": 2,
+  "table": "reservations",
+  "records": [
+    {
+      "id": "r-b",
+      "party": "beta",
+      "location": "edge-west",
+      "span": [
+        160,
+        200
+      ],
+      "resource_type": "fit7",
+      "count": 2,
+      "purpose": "qualification",
+      "state": "requested"
+    },
+    {
+      "id": "r-c",
+      "party": "gamma",
+      "location": "edge-west",
+      "span": [
+        160,
+        200
+      ],
+      "resource_type": "fit7",
+      "count": 2,
+      "purpose": "qualification",
+      "state": "requested"
+    },
+    {
+      "id": "r-s",
+      "party": "eta",
+      "location": "edge-west",
+      "span": [
+        20,
+        60
+      ],
+      "resource_type": "fit3",
+      "count": 2,
+      "purpose": "service",
+      "state": "requested"
+    },
+    {
+      "id": "r-fr",
+      "party": "zeta",
+      "location": "edge-east",
+      "span": [
+        20,
+        80
+      ],
+      "resource_type": "fit7",
+      "count": 2,
+      "purpose": "qualification",
+      "state": "requested"
+    }
+  ]
+}
